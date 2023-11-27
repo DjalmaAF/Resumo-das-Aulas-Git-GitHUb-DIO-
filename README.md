@@ -10,10 +10,12 @@ repositório  para armazenar resumos sobre Git e GitHub do curso Versionamento d
 
 | Aulas | Resumos |
 |-|-|
-| Gravando alterações do repositório local| [Resumos]() |
-...
+| Aula 01 | [Resumos]() |
+| Aula 02 | [Resumos]() |
+
+---
 git init
-...
+---
 
 ## 🔍 Referências
 - [GIT.Documentation](https://git-scm.com/doc)
